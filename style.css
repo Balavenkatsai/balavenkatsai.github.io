@@ -1,0 +1,37 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+header, section {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: auto;
+}
+header {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+}
+h1, h2 {
+  color: #444;
+}
+.skills, .project {
+  margin-bottom: 1.5rem;
+}
+.contact a {
+  color: #007BFF;
+  text-decoration: none;
+}
+.contact a:hover {
+  text-decoration: underline;
+}
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
